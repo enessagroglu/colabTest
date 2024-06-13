@@ -101,15 +101,15 @@ def calculate_cost_from_best_solution(base_station_cost, filepath):
 def simulation(choice, max_generations=10000, max_stagnant_generations=10000, mutation_rate=0.098, tournament_size=4, coverage_radius=5, max_demand_per_station=100):
     
     # paths for street data and initial population JSON files
-    if choice == 1:
-        streets_filepath = r"D:\Projects\NATURE-INSPIRED-ALGORITHM-OPTIMIZATION-FOR-BASE-STATION-LOCATION-ALLOCATION-PROBLEM\Project\data\basibuyuk.json"
-        population_filepath = r"D:\Projects\NATURE-INSPIRED-ALGORITHM-OPTIMIZATION-FOR-BASE-STATION-LOCATION-ALLOCATION-PROBLEM\Project\data\basibuyuk_initial_population.json"
+     if choice == 1:
+        streets_filepath = r"/content/colabTest/data/basibuyuk.json"
+        population_filepath = r"/content/colabTest/data/basibuyuk_initial_population.json"
     elif choice == 2:
-        streets_filepath = r"D:\Projects\NATURE-INSPIRED-ALGORITHM-OPTIMIZATION-FOR-BASE-STATION-LOCATION-ALLOCATION-PROBLEM\Project\data\resadiye.json"
-        population_filepath = r"D:\Projects\NATURE-INSPIRED-ALGORITHM-OPTIMIZATION-FOR-BASE-STATION-LOCATION-ALLOCATION-PROBLEM\Project\data\resadiye_initial_population.json"
+        streets_filepath = r"/content/colabTest/data/resadiye.json"
+        population_filepath = r"/content/colabTest/data/resadiye_initial_population.json"
     elif choice == 3:
-        streets_filepath = r"D:\Projects\NATURE-INSPIRED-ALGORITHM-OPTIMIZATION-FOR-BASE-STATION-LOCATION-ALLOCATION-PROBLEM\Project\data\tepeustu.json"
-        population_filepath = r"D:\Projects\NATURE-INSPIRED-ALGORITHM-OPTIMIZATION-FOR-BASE-STATION-LOCATION-ALLOCATION-PROBLEM\Project\data\tepeustu_initial_population.json"
+        streets_filepath = r"/content/colabTest/data/tepeustu.json"
+        population_filepath = r"/content/colabTest/data/tepeustu_initial_population.json"
     
     create_first_population()
     
