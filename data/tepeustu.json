@@ -1,0 +1,418 @@
+[
+    {
+        "name": "ALEMDAĞ CD.",
+        "longitude": "41.019199",
+        "latitude": "29.131475",
+        "population": 425,
+        "rate_of_population": 5,
+        "demand": 212
+    },
+    {
+        "name": "DOĞANEVLER CD.",
+        "longitude": "41.013484",
+        "latitude": "29.137638",
+        "population": 85,
+        "rate_of_population": 1,
+        "demand": 25
+    },
+    {
+        "name": "ESKİ KADIKÖY YOLU CD.",
+        "longitude": "41.017056",
+        "latitude": "29.132104",
+        "population": 85,
+        "rate_of_population": 1,
+        "demand": 8
+    },
+    {
+        "name": "KAŞGARLI MAHMUT CD.",
+        "longitude": "41.019941",
+        "latitude": "29.127056",
+        "population": 425,
+        "rate_of_population": 5,
+        "demand": 42
+    },
+    {
+        "name": "POYRAZ CD.",
+        "longitude": "41.019383",
+        "latitude": "29.127792",
+        "population": 340,
+        "rate_of_population": 4,
+        "demand": 170
+    },
+    {
+        "name": "TAVUKÇUYOLU CD.",
+        "longitude": "41.009980",
+        "latitude": "29.138913",
+        "population": 85,
+        "rate_of_population": 1,
+        "demand": 8
+    },
+    {
+        "name": "30 AĞUSTOS SK.",
+        "longitude": "41.018288",
+        "latitude": "29.131430",
+        "population": 425,
+        "rate_of_population": 5,
+        "demand": 127
+    },
+    {
+        "name": "AZİM SK.",
+        "longitude": "41.015253",
+        "latitude": "29.137180",
+        "population": 255,
+        "rate_of_population": 3,
+        "demand": 25
+    },
+    {
+        "name": "BEGONYA SK.",
+        "longitude": "41.014151",
+        "latitude": "29.136156",
+        "population": 340,
+        "rate_of_population": 4,
+        "demand": 34
+    },
+    {
+        "name": "BİZİM SK.",
+        "longitude": "41.019437",
+        "latitude": "29.127352",
+        "population": 170,
+        "rate_of_population": 2,
+        "demand": 85
+    },
+    {
+        "name": "ÇAYIRBAŞI SK.",
+        "longitude": "41.015988",
+        "latitude": "29.136551",
+        "population": 255,
+        "rate_of_population": 3,
+        "demand": 127
+    },
+    {
+        "name": "ÇEŞME SK.",
+        "longitude": "41.015757",
+        "latitude": "29.134206",
+        "population": 425,
+        "rate_of_population": 5,
+        "demand": 127
+    },
+    {
+        "name": "DAMPSAN SK.",
+        "longitude": "41.015035",
+        "latitude": "29.135590",
+        "population": 340,
+        "rate_of_population": 4,
+        "demand": 170
+    },
+    {
+        "name": "DİKİLİAĞAÇ SK.",
+        "longitude": "41.014634",
+        "latitude": "29.131987",
+        "population": 340,
+        "rate_of_population": 4,
+        "demand": 34
+    },
+    {
+        "name": "DUA SK.",
+        "longitude": "41.018206",
+        "latitude": "29.128466",
+        "population": 425,
+        "rate_of_population": 5,
+        "demand": 42
+    },
+    {
+        "name": "EDAGÜL SK.",
+        "longitude": "41.019145",
+        "latitude": "29.129697",
+        "population": 85,
+        "rate_of_population": 1,
+        "demand": 8
+    },
+    {
+        "name": "ERDEM SK.",
+        "longitude": "41.016872",
+        "latitude": "29.132922",
+        "population": 425,
+        "rate_of_population": 5,
+        "demand": 127
+    },
+    {
+        "name": "ESENKÖŞE SK.",
+        "longitude": "41.018703",
+        "latitude": "29.130236",
+        "population": 425,
+        "rate_of_population": 5,
+        "demand": 212
+    },
+    {
+        "name": "FATİH SK.",
+        "longitude": "41.015974",
+        "latitude": "29.133865",
+        "population": 340,
+        "rate_of_population": 4,
+        "demand": 170
+    },
+    {
+        "name": "GEZEN SK.",
+        "longitude": "41.019512",
+        "latitude": "29.129598",
+        "population": 85,
+        "rate_of_population": 1,
+        "demand": 25
+    },
+    {
+        "name": "GÜNAŞIK SK.",
+        "longitude": "41.018145",
+        "latitude": "29.129742",
+        "population": 340,
+        "rate_of_population": 4,
+        "demand": 170
+    },
+    {
+        "name": "GÜVENÇ SK.",
+        "longitude": "41.019090",
+        "latitude": "29.129014",
+        "population": 255,
+        "rate_of_population": 3,
+        "demand": 76
+    },
+    {
+        "name": "HACI BAYRAM SK.",
+        "longitude": "41.015750",
+        "latitude": "29.137413",
+        "population": 85,
+        "rate_of_population": 1,
+        "demand": 42
+    },
+    {
+        "name": "HAYIRLI SK.",
+        "longitude": "41.015641",
+        "latitude": "29.131098",
+        "population": 85,
+        "rate_of_population": 1,
+        "demand": 42
+    },
+    {
+        "name": "HAYRAN SK.",
+        "longitude": "41.014287",
+        "latitude": "29.136488",
+        "population": 85,
+        "rate_of_population": 1,
+        "demand": 25
+    },
+    {
+        "name": "HÜRMET SK.",
+        "longitude": "41.015614",
+        "latitude": "29.134664",
+        "population": 85,
+        "rate_of_population": 1,
+        "demand": 42
+    },
+    {
+        "name": "İHRAM SK.",
+        "longitude": "41.019329",
+        "latitude": "29.128888",
+        "population": 85,
+        "rate_of_population": 1,
+        "demand": 25
+    },
+    {
+        "name": "İNANÇ SK.",
+        "longitude": "41.018798",
+        "latitude": "29.127451",
+        "population": 425,
+        "rate_of_population": 5,
+        "demand": 212
+    },
+    {
+        "name": "İSTİKBAL SK.",
+        "longitude": "41.013899",
+        "latitude": "29.136200",
+        "population": 340,
+        "rate_of_population": 4,
+        "demand": 170
+    },
+    {
+        "name": "KADİM SK.",
+        "longitude": "41.018927",
+        "latitude": "29.131260",
+        "population": 170,
+        "rate_of_population": 2,
+        "demand": 51
+    },
+    {
+        "name": "KAFİYE SK.",
+        "longitude": "41.015757",
+        "latitude": "29.134206",
+        "population": 85,
+        "rate_of_population": 1,
+        "demand": 8
+    },
+    {
+        "name": "KANDİL SK.",
+        "longitude": "41.019859",
+        "latitude": "29.127523",
+        "population": 425,
+        "rate_of_population": 5,
+        "demand": 212
+    },
+    {
+        "name": "LİDER SK.",
+        "longitude": "41.017873",
+        "latitude": "29.128987",
+        "population": 340,
+        "rate_of_population": 4,
+        "demand": 102
+    },
+    {
+        "name": "MANİDAR SK.",
+        "longitude": "41.016267",
+        "latitude": "29.137647",
+        "population": 255,
+        "rate_of_population": 3,
+        "demand": 25
+    },
+    {
+        "name": "MEMLEKET SK.",
+        "longitude": "41.017900",
+        "latitude": "29.131386",
+        "population": 85,
+        "rate_of_population": 1,
+        "demand": 25
+    },
+    {
+        "name": "MİLLİ MÜCADELE SK.",
+        "longitude": "41.017281",
+        "latitude": "29.131511",
+        "population": 340,
+        "rate_of_population": 4,
+        "demand": 102
+    },
+    {
+        "name": "NAKKAŞ SK.",
+        "longitude": "41.014314",
+        "latitude": "29.132302",
+        "population": 255,
+        "rate_of_population": 3,
+        "demand": 76
+    },
+    {
+        "name": "NAZENİN SK.",
+        "longitude": "41.013994",
+        "latitude": "29.136668",
+        "population": 425,
+        "rate_of_population": 5,
+        "demand": 42
+    },
+    {
+        "name": "ÖNAL SK.",
+        "longitude": "41.013838",
+        "latitude": "29.137162",
+        "population": 425,
+        "rate_of_population": 5,
+        "demand": 42
+    },
+    {
+        "name": "ÖRNEK SK.",
+        "longitude": "41.015933",
+        "latitude": "29.133344",
+        "population": 340,
+        "rate_of_population": 4,
+        "demand": 102
+    },
+    {
+        "name": "ÖZKANCA SK.",
+        "longitude": "41.013048",
+        "latitude": "29.135922",
+        "population": 340,
+        "rate_of_population": 4,
+        "demand": 170
+    },
+    {
+        "name": "ÖZTÜRK SK.",
+        "longitude": "41.015464",
+        "latitude": "29.135626",
+        "population": 85,
+        "rate_of_population": 1,
+        "demand": 8
+    },
+    {
+        "name": "PINARBAŞI SK.",
+        "longitude": "41.015947",
+        "latitude": "29.132778",
+        "population": 170,
+        "rate_of_population": 2,
+        "demand": 17
+    },
+    {
+        "name": "PINARLI SK.",
+        "longitude": "41.017478",
+        "latitude": "29.131233",
+        "population": 425,
+        "rate_of_population": 5,
+        "demand": 127
+    },
+    {
+        "name": "RESUL SK.",
+        "longitude": "41.019261",
+        "latitude": "29.130622",
+        "population": 85,
+        "rate_of_population": 1,
+        "demand": 25
+    },
+    {
+        "name": "SEDA SK.",
+        "longitude": "41.014314",
+        "latitude": "29.135688",
+        "population": 255,
+        "rate_of_population": 3,
+        "demand": 25
+    },
+    {
+        "name": "TARİH SK.",
+        "longitude": "41.017784",
+        "latitude": "29.129265",
+        "population": 340,
+        "rate_of_population": 4,
+        "demand": 170
+    },
+    {
+        "name": "TEPEÜSTÜ ÖZGÜR SK.",
+        "longitude": "41.019240",
+        "latitude": "29.128295",
+        "population": 85,
+        "rate_of_population": 1,
+        "demand": 8
+    },
+    {
+        "name": "ULUDERE SK.",
+        "longitude": "41.017240",
+        "latitude": "29.129445",
+        "population": 425,
+        "rate_of_population": 5,
+        "demand": 127
+    },
+    {
+        "name": "YALIKENT SK.",
+        "longitude": "41.018961",
+        "latitude": "29.127154",
+        "population": 255,
+        "rate_of_population": 3,
+        "demand": 76
+    },
+    {
+        "name": "YENİLİK SK.",
+        "longitude": "41.015546",
+        "latitude": "29.135158",
+        "population": 85,
+        "rate_of_population": 1,
+        "demand": 42
+    },
+    {
+        "name": "ZİRVE SK.",
+        "longitude": "41.017553",
+        "latitude": "29.129715",
+        "population": 425,
+        "rate_of_population": 5,
+        "demand": 212
+    }
+]
