@@ -32,16 +32,16 @@ def generate_initial_population(filepath, output_path):
 
 def create_first_population():
     #basibuyuk
-    basibuyuk_path = r"D:\Projects\NATURE-INSPIRED-ALGORITHM-OPTIMIZATION-FOR-BASE-STATION-LOCATION-ALLOCATION-PROBLEM\Project\data\basibuyuk.json"
-    basibuyuk_output_path = r"D:\Projects\NATURE-INSPIRED-ALGORITHM-OPTIMIZATION-FOR-BASE-STATION-LOCATION-ALLOCATION-PROBLEM\Project\data\basibuyuk_initial_population.json"
+    basibuyuk_path = r"/content/colabTest/data/basibuyuk.json"
+    basibuyuk_output_path = r"/content/colabTest/data/basibuyuk_initial_population.json"
     generate_initial_population(basibuyuk_path, basibuyuk_output_path)
 
     #tepeustu
-    tepeustu_path = r"D:\Projects\NATURE-INSPIRED-ALGORITHM-OPTIMIZATION-FOR-BASE-STATION-LOCATION-ALLOCATION-PROBLEM\Project\data\tepeustu.json"
-    tepeustu_output_path = r"D:\Projects\NATURE-INSPIRED-ALGORITHM-OPTIMIZATION-FOR-BASE-STATION-LOCATION-ALLOCATION-PROBLEM\Project\data\tepeustu_initial_population.json"
+    tepeustu_path = r"/content/colabTest/data/tepeustu.json"
+    tepeustu_output_path = r"/content/colabTest/data/tepeustu_initial_population.json"
     generate_initial_population(tepeustu_path, tepeustu_output_path)
 
     #resadiye
-    resadiye_path = r"D:\Projects\NATURE-INSPIRED-ALGORITHM-OPTIMIZATION-FOR-BASE-STATION-LOCATION-ALLOCATION-PROBLEM\Project\data\resadiye.json"
-    resadiye_output_path = r"D:\Projects\NATURE-INSPIRED-ALGORITHM-OPTIMIZATION-FOR-BASE-STATION-LOCATION-ALLOCATION-PROBLEM\Project\data\resadiye_initial_population.json"
+    resadiye_path = r"/content/colabTest/data/resadiye.json"
+    resadiye_output_path = r"/content/colabTest/data/resadiye_initial_population.json"
     generate_initial_population(resadiye_path, resadiye_output_path)
