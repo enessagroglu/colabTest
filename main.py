@@ -98,10 +98,10 @@ def calculate_cost_from_best_solution(base_station_cost, filepath):
         print(f"Error reading or parsing best solution file: {e}")
         return None
 
-def simulation(choice, max_generations=10000, max_stagnant_generations=10000, mutation_rate=0.098, tournament_size=4, coverage_radius=5, max_demand_per_station=100):
+def simulation(choice, max_generations=10000, max_stagnant_generations=10000, mutation_rate=0.196, tournament_size=4, coverage_radius=5, max_demand_per_station=100):
     
     # paths for street data and initial population JSON files
-     if choice == 1:
+    if choice == 1:
         streets_filepath = r"/content/colabTest/data/basibuyuk.json"
         population_filepath = r"/content/colabTest/data/basibuyuk_initial_population.json"
     elif choice == 2:
